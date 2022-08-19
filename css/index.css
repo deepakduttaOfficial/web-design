@@ -11,6 +11,8 @@
 
 .main-div {
   padding: var(--defaultPadding);
+  max-width: 1600px;
+  margin: auto;
 }
 
 .main-div::before {
